@@ -1,1 +1,1 @@
-docker.io/library/debian:bookworm-slim
+getsentry/sentry-cli
