@@ -1,2 +1,2 @@
-tianon/exim4:latest
-curlimages/curl:7.77.0
+ghcr.io/maxmind/geoipupdate:v6.1.0
+busybox:latest
