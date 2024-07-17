@@ -1,2 +1,3 @@
-ghcr.io/maxmind/geoipupdate:v6.1.0
-busybox:latest
+memcached:1.6.26-alpine
+postgres:14.11
+nginx:1.25.4-alpine
