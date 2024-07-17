@@ -1,10 +1,1 @@
-getsentry/symbolicator:24.7.0
-getsentry/snuba:24.7.0
-getsentry/relay:24.7.0
-getsentry/sentry:24.7.0
-getsentry/vroom:24.7.0
-getsentry/sentry-cli:latest
-redis:6.2.14-alpine
-clickhouse-self-hosted-local:latest
-confluentinc/cp-kafka:7.6.1
-confluentinc/cp-zookeeper:7.6.1
+sentry-self-hosted-jq-local:latest
