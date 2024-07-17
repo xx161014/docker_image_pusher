@@ -1,1 +1,2 @@
-sentry-self-hosted-jq-local:latest
+confluentinc/cp-kafka:7.6.1
+confluentinc/cp-zookeeper:7.6.1
