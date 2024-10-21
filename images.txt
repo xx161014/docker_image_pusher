@@ -1,1 +1,1 @@
-node:14.21.3
+nacos/nacos-server:v2.0.3
