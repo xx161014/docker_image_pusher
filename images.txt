@@ -1,1 +1,1 @@
-kubesphere/openelb-speaker:v0.6.0
+kubespheredev/kube-webhook-certgen:v1.1.1
