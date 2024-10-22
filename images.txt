@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.1
+gitlab/gitlab-runner:v17.5.1
