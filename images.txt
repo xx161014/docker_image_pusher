@@ -1,1 +1,1 @@
-kubesphere/openelb-controller:v0.6.0
+kubesphere/openelb-speaker:v0.6.0
