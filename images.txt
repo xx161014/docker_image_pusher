@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.22.6
+docker.io/istio/proxyv2:1.21.6
