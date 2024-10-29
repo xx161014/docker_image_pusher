@@ -1,1 +1,1 @@
-prom/prometheus:v2.52.0
+openebs/provisioner-localpv:3.4.0
