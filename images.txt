@@ -1,1 +1,1 @@
-openebs/node-disk-operator:2.1.0
+openebs/linux-utils:3.4.0
