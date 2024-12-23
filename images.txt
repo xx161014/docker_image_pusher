@@ -1,1 +1,1 @@
-monlor/xiaoya:2.0.2
+ xiaoyaliu/alist:hostmode
