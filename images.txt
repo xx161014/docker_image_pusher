@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest
+allanpk716/chinesesubfinder:latest-lite
