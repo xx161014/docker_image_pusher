@@ -1,1 +1,1 @@
-allanpk716/chinesesubfinder:latest-lite
+diluka/nas-tools:2.9.1
