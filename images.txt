@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+jellyfin/jellyfin:latest
