@@ -1,1 +1,1 @@
-pixman/pixman:latest
+youshandefeiyang/allinone:latest
