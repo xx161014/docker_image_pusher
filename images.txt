@@ -1,1 +1,1 @@
-fjlzwl/nastool
+mouday/domain-admin:v1.6.63
