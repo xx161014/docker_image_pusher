@@ -1,1 +1,1 @@
-mouday/domain-admin:v1.6.64
+gitlab/gitlab-ce:latest
