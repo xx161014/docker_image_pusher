@@ -1,1 +1,1 @@
-alpine:latest
+sonatype/nexus3:3.70.4
