@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:v17.9.0
+healthchecks/healthchecks:v3.9
