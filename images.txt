@@ -1,1 +1,1 @@
-jellyfin/jellyfin:10.10.6
+easychen/cookiecloud:latest
