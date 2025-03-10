@@ -1,1 +1,1 @@
-linuxserver/emby:4.8.10
+jellyfin/jellyfin:10.10.6
