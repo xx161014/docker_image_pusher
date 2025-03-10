@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+linuxserver/plex:1.41.4
