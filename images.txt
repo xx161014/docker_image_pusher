@@ -1,1 +1,1 @@
-zack357/douban-tool:latest
+nyanmisaka/jellyfin:latest
