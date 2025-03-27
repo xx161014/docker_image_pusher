@@ -1,1 +1,1 @@
-zack357/douban-tool:2.1.1
+zack357/douban-tool:latest
