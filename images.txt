@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+nevinee/qbittorrent:latest
