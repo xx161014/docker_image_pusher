@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2:latest
+zack357/douban-tool:2.1.1
