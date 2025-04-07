@@ -1,1 +1,1 @@
-kubesphere/openelb:v0.5.1
+kubespheredev/kube-webhook-certgen:v1.1.1
