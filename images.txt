@@ -1,1 +1,1 @@
-ikubernetes/demoapp:v2.0
+ikubernetes/demoapp:v2.1
