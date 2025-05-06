@@ -1,1 +1,1 @@
-ikubernetes/demoapp:v2.1
+mysql:8.4.5
