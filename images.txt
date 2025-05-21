@@ -1,13 +1,1 @@
-nobody114/frpc
-nobody114/nas-nav
-nobody114/frps
-nobody114/gh-proxy
-nobody114/nginx8097
-nobody114/docker-pull-python
-nobody114/net_test
-nobody114/portainer-ce
-nobody114/the-movies-tool
-nobody114/cookiecloud
-nobody114/auto-host
-nobody114/nginx-fancyindex
-nobody114/wxchat
+gitlab/gitlab-ce:18.0.0-ce.0
