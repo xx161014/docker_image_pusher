@@ -1,1 +1,2 @@
-mysql:8.0.42
+redis:5.0.14
+apache/rocketmq:5.0.0
