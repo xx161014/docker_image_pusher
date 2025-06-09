@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2:latest
+nastool/nas-tools:3.2.3
