@@ -1,1 +1,1 @@
-linuxserver/jackett:amd64-0.22.2002
+linuxserver/emby:4.8.11
