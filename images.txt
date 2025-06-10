@@ -1,1 +1,1 @@
-linuxserver/emby:4.8.11
+nobody114/nas-nav:latest
