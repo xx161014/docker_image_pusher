@@ -1,1 +1,1 @@
-nobody114/nas-nav:latest
+cucker/get_command_4_run_container
