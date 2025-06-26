@@ -1,1 +1,2 @@
-cucker/get_command_4_run_container
+registry.k8s.io/ingress-nginx/controller:v1.11.7@sha256:016a25cf89bf7f930869ccd7cb3dd4acbe106cd4da1419804951ef9c8636f053
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.4@sha256:7a38cf0f8480775baaee71ab519c7465fd1dfeac66c421f28f087786e631456e
