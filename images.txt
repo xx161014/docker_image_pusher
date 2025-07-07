@@ -1,3 +1,1 @@
-redash/nginx:latest
-redash/redash:25.1.0
-pgautoupgrade/pgautoupgrade:latest
+redis:7-alpine
