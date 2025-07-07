@@ -1,1 +1,1 @@
-nginx:1.20.2
+redash/redash:25.1.0
