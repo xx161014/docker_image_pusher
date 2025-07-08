@@ -1,1 +1,3 @@
-redis:7-alpine
+redash/redash:latest
+redis
+postgres:13-alpine3.15
