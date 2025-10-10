@@ -1,1 +1,1 @@
-redash/redash:25.1.0
+coturn/coturn:4
