@@ -1,1 +1,1 @@
-coturn/coturn:4
+sonatype/nexus3:3.86.2
