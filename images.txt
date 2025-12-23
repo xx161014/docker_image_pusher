@@ -1,1 +1,1 @@
-sonatype/nexus3:3.86.2
+nginx:1.27.0
